@@ -5,5 +5,3 @@
 - paste perintah dibawah ke terminal stb openwrt anda.
 
 wget --no-check-certificate "https://raw.githubusercontent.com/vitoharhari/speedtest/main/install-speedtest" -P /root/ && chmod 777 /root/install-speedtest && bash install-speedtest
-
-123456
